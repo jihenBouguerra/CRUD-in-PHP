@@ -28,6 +28,6 @@ this form will allow you to save the data
 
 ![5](https://user-images.githubusercontent.com/22852604/40280419-e5331b9a-5c4a-11e8-9565-86bc94a08dcb.PNG)
 
-# 6.DELETE method
+# 6. DELETE method
 
 ![6](https://user-images.githubusercontent.com/22852604/40280420-e551ddc8-5c4a-11e8-8585-0eed30dccb6f.PNG)
