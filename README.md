@@ -1,6 +1,6 @@
 # CRUD in PHP
 
-this ia mainly an example of how to use the crud and the pattern mvc in php
+this is mainly an example of how to use the crud and the pattern mvc in php
 
 this form will allow you to save the data
 
